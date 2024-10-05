@@ -1,0 +1,11 @@
+Hasil Deep Analysis
+
+Bagaimana Distirbusi lead time berdasarkan status pembatalan?
+Hasil menunjukkan semakin panjang lead timenya maka semakin besar tejadi pembatalan
+
+Bagaimana Segmen pasar terhadap pembatalan?
+- Pemesanan melalui online TA dengan lead time yang lebih panjang memiliki kemungkinan lebih besar untuk dibatalkan
+- Segmen Online TA, Groups, dan offline TA memiliki trend dimana lead time lebih panjang cendrung lebih besar dibatalkan
+- Segmen corporate, pembatalan terjadi dengan lead time yang lebih pendek
+Disimpulkan:
+Semakin panjang lead time maka semakin besar kemungkinan Pemesanan dibatalkan

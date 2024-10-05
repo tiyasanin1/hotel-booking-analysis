@@ -9,3 +9,15 @@ Bagaimana Segmen pasar terhadap pembatalan?
 - Segmen corporate, pembatalan terjadi dengan lead time yang lebih pendek
 Disimpulkan:
 Semakin panjang lead time maka semakin besar kemungkinan Pemesanan dibatalkan
+
+Apakah harga harian mempengaruhi pembatalan pada reservasi dengan lead time panjang?
+- harga harian (ADR) memang berpengaruh terhadap pembatalan, di mana harga yang lebih tinggi mungkin berkaitan dengan keputusan untuk membatalkan.
+
+Apakah ada hubungan antara jenis kamar yang dipesan dengan lead time yang panjang dan pembatalan?
+- Kamar A memiliki lebih banyak reservasi yang dibatalkan
+- Kamar E, D dan Kamar F memiliki lebih banyak reservasi yang tidak dibatalkan
+
+
+Ketika jumlah special request adalah 0, terdapat jumlah pembatalan yang signifikan (warna orange) meskipun jumlah reservasi yang tidak dibatalkan masih lebih tinggi (warna hijau).
+Ketika jumlah special request meningkat (1, 2, dst.), tren reservasi yang tidak dibatalkan menjadi semakin dominan dibandingkan pembatalan. Misalnya, pada special request 1 dan 2, lebih banyak reservasi yang tetap dibandingkan dengan yang dibatalkan.
+Pada special request 3 dan seterusnya, jumlah reservasi semakin sedikit, tetapi mayoritasnya tetap tidak dibatalkan.
